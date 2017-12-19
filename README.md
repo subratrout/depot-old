@@ -1,21 +1,20 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An Ecommerce App built using Ruby on Rails 5.0
 
-Things you may want to cover:
+Things used in this app:
 
-* Ruby version
+* Ruby 2.2.5
 
-* System dependencies
+* Rails 5.0.6
 
-* Configuration
+* SQLite
 
-* Database creation
+* Bootstrap
 
-* Database initialization
+* jQuery
 
-* How to run the test suite
+* Unit Test, Rspec etc.
 
 * Services (job queues, cache servers, search engines, etc.)
 
