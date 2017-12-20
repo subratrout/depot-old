@@ -1,13 +1,13 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  title: MyString
-  description: MyText
-  image_url: MyString
+ruby:
+  title: Programming Ruby 2.2
+  description: Ruby is most exciting language
+  image_url: ruby.png
   price: 9.99
 
-two:
-  title: MyString
-  description: MyText
-  image_url: MyString
-  price: 9.99
+python:
+  title: Programming Python 3.0
+  description: Python is a great language for data analysis
+  image_url: python.jpg
+  price: 19.99
