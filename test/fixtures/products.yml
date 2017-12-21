@@ -1,6 +1,6 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-ruby:
+ruby_new:
   title: Programming Ruby 2.2
   description: Ruby is most exciting language
   image_url: ruby.png
@@ -11,3 +11,9 @@ python:
   description: Python is a great language for data analysis
   image_url: python.jpg
   price: 19.99
+
+ruby:
+  title: Programming Ruby 1.9​
+  description: Ruby is the fastest growing and most exciting dynamic​ language out there. If you need to get working programs​ delivered fast, you should add Ruby to your toolbox.​
+  image_url: ruby.png​
+  price: 49.20
