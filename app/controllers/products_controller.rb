@@ -73,7 +73,7 @@ class ProductsController < ApplicationController
         format.atom
         format.xml {render :xml => @product.to_xml(:include => :orders)}
         format.json {render :json => @product.to_json(:include => :orders)}
-        format.html {render: who_bought}
+        format.html {render :who_bought}
       end
     end
   end

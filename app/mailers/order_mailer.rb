@@ -8,7 +8,7 @@ class OrderMailer < ApplicationMailer
   def received(order)
     @order = order
 
-    mail to: order.email, subject: "ROR Store Order confirmation"
+    mail to: order.email, subject: "ROR Store Order Confirmation"
   end
 
   # Subject can be set in your I18n file at config/locales/en.yml
@@ -19,6 +19,6 @@ class OrderMailer < ApplicationMailer
   def shipped(order)
     @order = order
 
-    mail to: order.email, subject: "ROR Store Order shipped"
+    mail to: order.email, subject: "ROR Store Order Shipped"
   end
 end
